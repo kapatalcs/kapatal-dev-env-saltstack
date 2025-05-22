@@ -1,5 +1,5 @@
 # Kapatal SaltStack State
-This SaltStack state file automates the configuration of a standard development environment for the `kapatal` user.
+This SaltStack state file for Ubuntu/Debian systems automates the configuration of a standard development environment for the `kapatal` user.
 This feature enables users to swiftly execute a range of tasks, including package installations, configuration of user and permission settings, management of environment variables, and software installation.
 
 ---
